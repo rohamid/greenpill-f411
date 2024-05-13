@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.11-2627ca5db0~126~ubuntu20.04.1"
+      "Version": "8.0.1"
     },
-    "CreationDate": "2023-02-28T16:59:55+07:00"
+    "CreationDate": "2024-05-13T17:31:11+07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "Bluepill-USB-C",
-      "GUID": "426c7565-7069-46c6-9c2d-5553422d432e",
+      "Name": "greenpill-f411",
+      "GUID": "67726565-6e70-4696-9c6c-2d663431312e",
       "Revision": "rev?"
     },
     "Size": {
@@ -33,67 +33,67 @@
     },
     {
       "Layers": "Inner",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.6,
+      "MinLineWidth": 0.2,
       "TrackToRegion": 0.254,
       "RegionToRegion": 0.254
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "Bluepill-USB-C-F_Cu.gbr",
+      "Path": "greenpill-f411-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Bluepill-USB-C-In1_Cu.gbr",
+      "Path": "greenpill-f411-In1_Cu.gbr",
       "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Bluepill-USB-C-In2_Cu.gbr",
+      "Path": "greenpill-f411-In2_Cu.gbr",
       "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Bluepill-USB-C-B_Cu.gbr",
+      "Path": "greenpill-f411-B_Cu.gbr",
       "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Bluepill-USB-C-F_Paste.gbr",
+      "Path": "greenpill-f411-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Bluepill-USB-C-B_Paste.gbr",
+      "Path": "greenpill-f411-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Bluepill-USB-C-F_Silkscreen.gbr",
+      "Path": "greenpill-f411-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Bluepill-USB-C-B_Silkscreen.gbr",
+      "Path": "greenpill-f411-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Bluepill-USB-C-F_Mask.gbr",
+      "Path": "greenpill-f411-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Bluepill-USB-C-B_Mask.gbr",
+      "Path": "greenpill-f411-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Bluepill-USB-C-Edge_Cuts.gbr",
+      "Path": "greenpill-f411-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

@@ -590,8 +590,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "gerber/",
+      "pos_files": "B.O.M/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -617,13 +617,13 @@
       "fields_ordered": [
         {
           "group_by": false,
-          "label": "Reference",
+          "label": "Designator",
           "name": "Reference",
           "show": true
         },
         {
           "group_by": true,
-          "label": "Value",
+          "label": "Comment",
           "name": "Value",
           "show": true
         },
@@ -643,13 +643,13 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -659,7 +659,7 @@
         },
         {
           "group_by": false,
-          "label": "LCSC Part Number",
+          "label": "JLCPCB Part #",
           "name": "LCSC Part Number",
           "show": true
         },

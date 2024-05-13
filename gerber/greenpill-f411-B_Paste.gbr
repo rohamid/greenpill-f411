@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,6.0.11-2627ca5db0~126~ubuntu20.04.1*%
-%TF.CreationDate,2023-02-28T16:59:55+07:00*%
-%TF.ProjectId,Bluepill-USB-C,426c7565-7069-46c6-9c2d-5553422d432e,rev?*%
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.1*%
+%TF.CreationDate,2024-05-13T17:31:10+07:00*%
+%TF.ProjectId,greenpill-f411,67726565-6e70-4696-9c6c-2d663431312e,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.11-2627ca5db0~126~ubuntu20.04.1) date 2023-02-28 16:59:55*
+G04 Created by KiCad (PCBNEW 8.0.1) date 2024-05-13 17:31:10*
 %MOMM*%
 %LPD*%
 G01*
